@@ -29,7 +29,38 @@
 																						
 																						
 																						
-![image](https://github.com/shaikmohammadgouse/vrinda-store-data-analysis-using-excel/assets/124573658/fa1a69c6-db53-4471-a927-560fd949c0f2)
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+![image](https://github.com/shaikmohammadgouse/vrinda-store-data-analysis-using-excel/assets/124573658/705b2bf7-8fd6-435a-a845-bb03e65dfc6d)
+
 															
 																						
 																						
