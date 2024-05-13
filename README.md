@@ -1,5 +1,36 @@
 # vrinda-store-data-analysis-using-excel
-													Vrinda Store Annual Report - 2022																	
+							Vrinda Store Annual Report - 2022																	
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+![image](https://github.com/shaikmohammadgouse/vrinda-store-data-analysis-using-excel/assets/124573658/e2b381a8-653a-49f1-b563-f62317efa53a)
+																											
 																						
 																						
 																						
@@ -59,7 +90,7 @@
 																						
 																						
 																						
-![image](https://github.com/shaikmohammadgouse/vrinda-store-data-analysis-using-excel/assets/124573658/705b2bf7-8fd6-435a-a845-bb03e65dfc6d)
+
 
 															
 																						
